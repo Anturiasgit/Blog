@@ -1,6 +1,6 @@
 # Blog en PHP (Work in Progress)
 
-Ce projet est un blog basique en PHP intégrant des fonctionnalités de CRUD (Créer, Lire, Modifier, Supprimer) pour la gestion des articles, avec une base de données MySQL. Le projet est en cours de développement et de nouvelles fonctionnalités seront bientôt ajoutées, notamment l'authentification et la gestion des rôles.
+Ce projet est un blog en PHP intégrant des fonctionnalités de CRUD (Créer, Lire, Modifier, Supprimer) pour la gestion des articles, avec une base de données MySQL. Le projet est en cours de développement et de nouvelles fonctionnalités seront bientôt ajoutées, notamment l'authentification et la gestion des rôles.
 
 ## Fonctionnalités à venir
 
